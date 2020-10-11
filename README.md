@@ -1,2 +1,2 @@
 # Mini-Car-Game
-mini Car game using C#
+Using C# create mini car racing  game
